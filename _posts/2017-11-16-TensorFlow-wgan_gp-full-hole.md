@@ -1,9 +1,8 @@
 ---
 layout: post
 title: TensorFlow实现wgan-gp with text填坑指南
-tags: TensorFlow
-categories: Machine Learning
-tags: Machine Learning
+categories: Machine-Learning
+tags: Machine-Learning Tensorflow
 author: Kaiyu
 ---
 
