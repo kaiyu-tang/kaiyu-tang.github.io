@@ -21,8 +21,8 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/kaiyu-tang)
-* email：kaiyu-tang@163.com/
+* GitHub：[Kaiyu](https://github.com/kaiyu-tang)
+* email：kaiyu_tang@163.com/
 
 
 
