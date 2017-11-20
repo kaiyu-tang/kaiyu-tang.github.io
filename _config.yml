@@ -13,12 +13,12 @@ url: "https://kaiyu-tang.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-#twitter_username: kaiyu9999
-#facebook_username: kaiyu9999
+#twitter_username:
+#facebook_username:
 github_username:  kaiyu-tang
 email: kaiyu_tang@163.com
-#weibo_username: kaiyu9999
-#zhihu_username: Kaiyu_Tang
+#weibo_username: 
+#zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
